@@ -15,7 +15,7 @@
 
 I'm a passionate student developer with a broad skill set spanning **frontend**, **backend**, **data science**, and **UI/UX design**. I love crafting things that live on the internet and exploring the intersection of intelligent systems and beautiful interfaces.
 
-- 🎓 Currently a **CS student** — always learning, always building
+- 🎓 Currently a **AI student** — always learning, always building
 - 🔭 Exploring **Machine Learning & AI** and how it can solve real-world problems
 - 🎨 I care deeply about **design** — functionality should be beautiful
 - 🚀 Working towards launching my first complete projects in **web apps**, **games**, and **automation**
